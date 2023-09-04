@@ -12,7 +12,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
 <h3 align="left">Preferred Browsers</h3>
-<p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.simpleicons.org/operagx/#EE2950" width="45" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.simpleicons.org/googlechrome/#4285F4" width="45" height="50"></a></p>
+<p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.simpleicons.org/operagx/#EE2950" width="45" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.simpleicons.org/googlechrome/white" width="45" height="50"></a></p>
 
 <h3 align="left">Creativity and Programming</h3>
 <p align="left">
@@ -20,7 +20,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobedreamweaver/#FF61F6" alt="adobedreamweaver" height="45" width="50"></a>
 <a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobelightroom/#31A8FF" alt="adobelightroom" height="45" width="50"></a>
 <a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="adobephotoshop" height="45" width="50"></a>
-<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://cdn.simpleicons.org/pycharm/white/" alt="pycharm" height="45" width="50"></a></p>  
+<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://cdn.simpleicons.org/pycharm/white/" alt="pycharm" height="45" width="50"></a></p>
+
+<p align="left">
+<a href="https://www.jetbrains.com/clion/" target="blank"><img align="center" src="https://cdn.simpleicons.org/clion/white" alt="adobeaudition" height="45" width="50"></a>
+<a href="https://www.jetbrains.com/webstorm/" target="blank"><img align="center" src="https://cdn.simpleicons.org/webstorm/white" alt="adobeaudition" height="45" width="50"></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="vscode" height="45" width="50"></a>
+</p>
 
 
 
