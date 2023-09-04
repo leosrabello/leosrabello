@@ -15,6 +15,7 @@
 <p align="left"> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a></p>
 
 <h3 align="left">Design and Programming</h3>
-<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=au"></a></p>
+<p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=au,vscode,stackoverflow,ps"></a></p>
+
 
 
