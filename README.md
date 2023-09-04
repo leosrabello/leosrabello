@@ -12,7 +12,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
 <h3 align="left">Preferred Browsers</h3>
-<p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="50" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50"></a></p>
+<p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="45" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" height="50"></a></p>
 
 <h3 align="left">Design and Programming</h3>
 <p align="left">
