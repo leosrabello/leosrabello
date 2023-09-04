@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a></p>
 
 <h3 align="left">Design and Programming</h3>
-<p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white"></a></p>
+<p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=au"></a></p>
 <p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white"></a></p>
 <p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a></p>
 <p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a></p>
