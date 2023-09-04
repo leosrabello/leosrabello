@@ -20,4 +20,9 @@
 <p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a></p>
 <p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a></p>
 <p align="left"> <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></a></p>
+<p align="center"> <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"></a></p>
+<p align="center"> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a></p>
+<p align="center"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a></p>
+
+
 
