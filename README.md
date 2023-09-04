@@ -14,9 +14,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <h3 align="left">Preferred Browsers</h3>
 <p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="45" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" height="50"></a></p>
 
-<h3 align="left">Design and Programming</h3>
+<h3 align="left">Creativity and Programming</h3>
 <p align="left">
-<a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobeaudition/#9999FF" alt="adobeaudition" height="45" width="50" /></a>
-<a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobedreamweaver/#FF61F6" alt="adobedreamweaver" height="45" width="50"></a></p>
+<a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobeaudition/#9999FF" alt="adobeaudition" height="45" width="50"></a>
+<a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobedreamweaver/#FF61F6" alt="adobedreamweaver" height="45" width="50"></a>
+<a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobelightroom/#31A8FF" alt="adobelightroom" height="45" width="50"></a>
+
 
 
