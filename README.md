@@ -12,7 +12,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
 <h3 align="left">Preferred Browsers</h3>
-<p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.simpleicons.org/operagx/#EE2950" width="45" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.simpleicons.org/googlechrome/white" width="45" height="50"></a></p>
+<p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img align="center"  src="https://cdn.simpleicons.org/operagx/#EE2950" width="40" height="50"></a> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.simpleicons.org/googlechrome/#d53228" width="40" height="50"></a></p>
 
 <h3 align="left">Creativity and Programming</h3>
 <p align="left">
