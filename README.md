@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobedreamweaver/#FF61F6" alt="adobedreamweaver" height="45" width="50"></a>
 <a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobelightroom/#31A8FF" alt="adobelightroom" height="45" width="50"></a>
 <a href="https://www.adobe.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/adobephotoshop/#31A8FF" alt="adobephotoshop" height="45" width="50"></a>
-<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://cdn.simpleicons.org/pycharm/#000000/DARK_MODE_COLOR" alt="pycharm" height="45" width="50"></a></p>  
+<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://cdn.simpleicons.org/pycharm/#000000/[DARK_MODE_COLOR]" alt="pycharm" height="45" width="50"></a></p>  
 
 
 
