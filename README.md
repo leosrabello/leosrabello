@@ -12,7 +12,7 @@
 
 <h3 align="left">Preferred Browsers</h3>
 <p align="left"> <a href="https://www.opera.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="50" height="50"></a></p>
-<p align="left"> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img float="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50"></a></p>
+<p align="left"> <a href="https://www.google.com/" target="_blank" rel="noreferrer"> <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50"></a></p>
 
 <h3 align="left">Design and Programming</h3>
 <p align="left"> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=au,vscode,stackoverflow,ps"></a></p>
