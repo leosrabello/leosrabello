@@ -32,6 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <h4> - Undergraduate at Universidade Positivo</h4>
 <p>
   <a href="https://www.codecademy.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/codecademy/" alt="codecademy" height="45" width="50"></a>
+  <a href="https://edx.org" target="blank"><img align="center" src="https://cdn.simpleicons.org/edx/" alt="edx" height="45" width="50"></a>
 </p>
 
 
