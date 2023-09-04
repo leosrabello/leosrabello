@@ -28,5 +28,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="vscode" height="45" width="50"></a>
 </p>
 
+<h3 align="left">Education</h3>
+<h4> * Undergraduate at Universidade Positivo</h4>
+<p>
+  <a href="https://www.codecademy.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/codecademy/" alt="codecademy" height="45" width="50"></a>
+</p>
+
 
 
