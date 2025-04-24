@@ -8,7 +8,7 @@
 
 <br />
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -20,12 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
 </div>
 
-<div align="left">
+<br />
+
+<div align="center">
   <a href="https://www.instagram.com/leosrabello/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-silva-rabello/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <img align="right" height="120" src="https://raw.githubusercontent.com/leosrabello/leosrabello/main/img/data-breakfast.png" alt="I eat data for breakfast" />
 </div>
