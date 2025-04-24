@@ -1,18 +1,12 @@
 <h1 align="center">Hi, I'm Leo Rabello</h1> 
 <h3 align="center">A Software-Engineering student in Curitiba, Brazil</h3>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leosrabello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leosrabello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://v0-github-readme-stats-clone.vercel.app/api?username=leosrabello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://v0-github-readme-stats-clone.vercel.app/api/top-langs?username=leosrabello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZxbTc1eWNnajBmOWtucHM1aHE2M2dmeDJ4b3Ziem53ZTY3Z2htdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/leosrabello/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -45,10 +37,6 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/leosrabello/leosrabello/output/snake.svg" alt="Snake animation" />
-
-###
