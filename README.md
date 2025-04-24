@@ -2,9 +2,10 @@
 <h3 align="center">A Software-Engineering student in Curitiba, Brazil</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-rosy-five-54.vercel.app/api?username=leosrabello&theme=radical&show_icons=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-rosy-five-54.vercel.app/api/top-langs/?username=leosrabello&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-rosy-five-54.vercel.app/api?username=leosrabello&theme=tokyonight&show_icons=true&cache_seconds=1800" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-rosy-five-54.vercel.app/api/top-langs/?username=leosrabello&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" alt="Top Languages"/>
 </div>
+
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZxbTc1eWNnajBmOWtucHM1aHE2M2dmeDJ4b3Ziem53ZTY3Z2htdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" />
 
