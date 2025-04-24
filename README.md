@@ -6,8 +6,7 @@
   <img src="https://github-readme-stats-rosy-five-54.vercel.app/api/top-langs/?username=leosrabello&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" alt="Top Languages"/>
 </div>
 
-
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZxbTc1eWNnajBmOWtucHM1aHE2M2dmeDJ4b3Ziem53ZTY3Z2htdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" />
+<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
@@ -28,8 +27,5 @@
   <a href="https://www.linkedin.com/in/leonardo-silva-rabello/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  <img align="right" height="120" src="https://raw.githubusercontent.com/leosrabello/leosrabello/main/img/data-breakfast.png" alt="I eat data for breakfast" />
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/leosrabello/leosrabello/output/snake.svg" alt="Snake animation" />
