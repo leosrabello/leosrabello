@@ -23,6 +23,14 @@
 <br />
 
 <div align="center">
+  <a href="https://portfolio-mac-rust.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-%23121212?style=for-the-badge&logo=apple&logoColor=white&labelColor=2a2a2a" height="35" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://www.instagram.com/leosrabello/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
